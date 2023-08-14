@@ -46,7 +46,7 @@ onBeforeUnmount(() => {
 </script>
 
 <template>
-  <h1>Pie Chart</h1>
+  <h1 class="text-4xl">Pie Chart</h1>
   <div class=" mx-auto w-[400px] h-[400px] bg-gray-400">
     <canvas id="chart">
     </canvas>
