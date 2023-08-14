@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted, nextTick, onBeforeUnmount } from 'vue';
+import { ref, onMounted, onBeforeUnmount } from 'vue';
 
 const items = ref([
   'https://source.unsplash.com/random?tiger',
